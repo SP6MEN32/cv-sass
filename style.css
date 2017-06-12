@@ -1,0 +1,76 @@
+body {
+  font-size: 20px;
+  margin: 0;
+  width: 100%;
+  background-image: url(http://madmoizerg.com/wp-content/uploads/2012/01/Dark-Templar-alternative-Imgur.jpg);
+  background-size: 100%;
+  background-attachment: fixed; }
+
+h1 {
+  color: GhostWhite;
+  font-family: 'Diplomata';
+  border-radius: 10px; }
+
+#pres {
+  color: GhostWhite; }
+
+.nav {
+  display: flex;
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrJ948UMdWYx4GtCc5hYCtUIm9qbML5rzvzRIq0FI7fzmOl2cD);
+  /*border-bottom: thick dotted Gainsboro;*/ }
+
+.me {
+  border-radius: 5em; }
+
+.contact {
+  margin-left: 15em;
+  margin-top: 2em;
+  border-radius: 0,5em;
+  display: flex; }
+
+#title {
+  margin-left: 2em; }
+
+#main {
+  	 /*border-style: groove;
+  */ }
+
+.barre_vertical {
+  height: 20em;
+  width: 20%;
+  margin-top: 2em;
+  overflow: hidden;
+  background: linear-gradient(silver, DimGrey, #bfffbf);
+  border-radius: 1em; }
+
+#ligne {
+  border-bottom: thick dotted white; }
+
+.imag {
+  position: absolute;
+  cursor: hand;
+  border: 0; }
+
+#divMenuRuban {
+  position: relative;
+  top: 0px;
+  left: 200px;
+  margin-left: 25em;
+  margin-top: -15em; }
+
+#competence {
+  height: 10em;
+  width: 20em;
+  overflow: hidden;
+  background: linear-gradient(60deg, silver, DimGrey, #bfffbf);
+  border-radius: 1em;
+  margin-left: 12em;
+  margin-top: 10em; }
+
+#interet {
+  font-family: 'Kavivanar', cursive;
+  margin-left: 41em;
+  margin-top: -27em;
+  color: DimGrey; }
+
+/*# sourceMappingURL=style.css.map */
